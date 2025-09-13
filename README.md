@@ -1,4 +1,4 @@
-# binance-QuantitativeTrading
+# Binance-QuantitativeTrading
 数字货币，币安Binance, 比特币BTC 以太坊ETH 莱特币LTC 量化交易系统 火币  交易策略 量化策略 自动交易
 
 如果国内不能访问币安api，需要科学上网.
@@ -15,7 +15,7 @@
 这是一个比较震荡的情况，会亏损。
 
 
-使用时，必须根据自身情况，调整 K线 和 均线！！！！
+使用时，须根据自身情况，调整 K线 和 均线！
 
 
 ## 运行环境
